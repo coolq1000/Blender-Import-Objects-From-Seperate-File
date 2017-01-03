@@ -13,7 +13,7 @@ To use the addon, head on over to `View 3D` > Import Tools.
 <img src="https://github.com/coolq1000/Blender-Import-Objects-From-Seperate-File/blob/master/Resources/Frame%201.PNG?raw=true" width="600"/>
 
 1. The '`To create`' text area is where you can type the name of the object you wish to import.
-2. The '`Create`' button imports the object from the file described `3.`, with the name from `1.`.
+2. The '`Create`' button imports the object from the file described '`3.`', with the name from '`1.`'.
 3. The '`Import from`' file browser, allows you to choose the file you want to import the objects from.
 4. '`Quick Add`' or '`QAdd`', is heavily under development, if the user creates a file named `app.txt` in the same directory as the file importing the objects, the user may have the entries on serperate lines in the file, the file may have comments using '`#`'
 

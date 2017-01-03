@@ -35,4 +35,4 @@ To use the addon, head on over to `View 3D` > Import Tools.
 | Cleaning Code    |          `No` |             `-` |  
 
 *`Originally and currently created, and maintained by Rohan (Coolq).`*  
-*`Last updated 1/3/2017 AU Time.`*
+*`Last updated 1/3/2017. First created 11-12/-/2016`*

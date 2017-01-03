@@ -10,3 +10,4 @@ This is a Blender addon in which you can import objects from another file.
 
 # Useage,
 To use the addon, head on over to `View 3D` > Import Tools.
+<img src="https://github.com/coolq1000/Blender-Import-Objects-From-Seperate-File/blob/master/Resources/HeroLogo@2x.png?raw=true" width="388"/>

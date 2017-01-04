@@ -25,13 +25,14 @@ To use the addon, head on over to `View 3D` > Import Tools.
 1. ~~The file with the models must be named 'models.blend'.~~
 2. ~~The file with the models must be in the same directory as the file importing them.~~
 3. The '`Quick Add`' or '`QAdd`', is heavily under development. Permission Errors, often occur, Blender must be run with administrator permissions, to be honest, I'm not really sure.
+4. Objects with armatures seem to spawn regardless of the position set in the settings ( 3D cursor or xPos,yPos and zPos).
 
 # Todo List,
 | Todo             | Done          | Date Completed  |
 | ---------------- |:-------------:| ---------------:|
 | Convert to `.zip`|         `Yes` |       `1/2/2017`|
 | Stableizing QAdd |          `No` |             `-` |
-| Adding Settings  |          `No` |             `-` |
+| Adding Settings  |        `Semi` |      `1/4/2017` |
 | Cleaning Code    |          `No` |             `-` |  
   
 <sub>Originally and currently created, and maintained by Rohan (Coolq).</sub>

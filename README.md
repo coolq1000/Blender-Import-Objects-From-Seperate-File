@@ -8,7 +8,7 @@ This is a Blender addon in which you can import objects from another file.
 2. In Blender goto: `User Preferences` > `Install from file` and selected the .zip.
 3. Explore the new tab called `Import Tools` :)
 
-# Useage,
+# Usage,
 To use the addon, head on over to `View 3D` > Import Tools.  
 <img src="https://github.com/coolq1000/Blender-Import-Objects-From-Seperate-File/blob/master/Resources/Frame%201.PNG?raw=true" width="600"/>
 
